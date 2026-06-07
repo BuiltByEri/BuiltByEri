@@ -1,109 +1,71 @@
-# Hi, I'm Eri 👋🏽
+Hi, I'm Eri 👋🏽
 
-I'm a Product Operations Specialist, AI Systems Builder, and founder of 3MC Automation.
+I'm a Product Owner, Product Operations Specialist, and AI systems builder focused on turning complex workflows into scalable systems.
 
-I help teams turn messy processes into structured systems through workflow design, automation, product operations, and practical AI implementation. ⚙️✨
+I build practical tools, automations, and operational workflows that reduce friction, improve visibility, and help teams move from scattered information to clear execution.
 
-My background spans product management, operations, client delivery, and stakeholder alignment. Today I focus on building tools and workflows that reduce friction, improve visibility, and help organizations scale how work gets done.
+## Current Focus
 
-## 🔭 Current Focus
+🤖 Building NOVA, an internal AI operations assistant
 
-* 🤖 Building NOVA, an internal AI operations assistant
-* ⚙️ Expanding practical workflow automation capabilities
-* 🧠 Exploring agent workflows and AI-assisted execution
-* 🏥 Supporting public health, prevention, and operational technology initiatives
+⚙️ Designing workflow automation and intake systems
 
----
+🧠 Exploring agent workflows and AI-assisted execution
 
-## 🚀 Featured Projects
+🏥 Supporting public health and prevention initiatives
 
-### 🧭 Evidence-Based Program Discovery System
+## Featured Projects
 
-An AI-supported discovery workflow designed to help prevention professionals navigate evidence-based program selection through structured intake, prioritization, and decision support.
+### Evidence-Based Program Discovery System
 
-**Focus Areas**
+An AI-supported discovery workflow that helps prevention professionals navigate evidence-based program selection through structured intake, prioritization, and decision support.
 
-* 🧩 Workflow Design
-* 📍 Product Strategy
-* 📝 Requirements Definition
-* 🧠 Decision Support Systems
+Focus areas: workflow design, product strategy, requirements definition, decision support systems
 
-🔗 https://github.com/3MC-Automation/discovery-tool-case-study
+Repo: https://github.com/3MC-Automation/discovery-tool-case-study
 
----
+### Insight Lab Survey Pipeline
 
-### 📊 Insight Lab Survey Pipeline
+A survey intake and reporting workflow that turns stakeholder responses into structured insights, cleaner reporting outputs, and implementation-ready recommendations.
 
-A survey intake and reporting workflow that transforms stakeholder responses into structured insights, cleaner reporting outputs, and implementation-ready recommendations.
+Focus areas: survey operations, data interpretation, workflow automation, reporting systems
 
-**Focus Areas**
+Repo: https://github.com/3MC-Automation/insight-lab-survey-pipeline-case-study
 
-* 📋 Survey Operations
-* 🔎 Data Interpretation
-* ⚙️ Workflow Automation
-* 📈 Reporting Systems
+## Currently Building
 
-🔗 https://github.com/3MC-Automation/insight-lab-survey-pipeline-case-study
+### NOVA
 
----
+An internal AI operations assistant focused on workflow triage, operational prioritization, delivery readiness, knowledge management, and administrative workload reduction.
 
-## 🛠️ Currently Building
+Current areas of exploration:
 
-### 🤖 NOVA
+* Agent workflows
+* Operational automation
+* Knowledge management
+* AI-assisted execution systems
 
-An internal AI operations assistant focused on workflow triage, operational prioritization, delivery readiness, memory management, and administrative workload reduction.
+## What I Build
 
-Current areas of exploration include:
+* Workflow automation
+* Product operations systems
+* Internal tools
+* Intake and triage workflows
+* Decision support systems
+* Documentation infrastructure
+* AI-assisted operational workflows
 
-* 🧠 Agent workflows
-* ⚙️ Operational automation
-* 🗂️ Knowledge management
-* ✨ AI-assisted execution systems
+## Builder Philosophy
 
----
+The best systems are simple, repeatable, and human-centered.
 
-## 🧰 What I Build
+My goal is not to add more technology for the sake of it. It is to reduce friction, improve clarity, and create systems people can actually use.
 
-* ⚙️ Workflow Automation
-* 🧱 Product Operations Systems
-* 🛠️ Internal Tools
-* 🚦 Intake & Triage Workflows
-* 🧠 Decision Support Systems
-* 📚 Documentation Infrastructure
-* ✨ AI-Assisted Operational Workflows
+## Connect
 
----
+Website: https://www.3mcautomation.com
 
-## 💡 Builder Philosophy
+GitHub Organization: https://github.com/3MC-Automation
 
-I believe the best systems are simple, repeatable, and human-centered.
-
-My goal is not to add more technology for the sake of it. It's to reduce friction, improve clarity, and create systems people can actually use.
-
----
-
-## 🎯 Areas of Interest
-
-* ⚙️ Workflow Automation
-* 🧠 Decision Support Systems
-* 🤖 AI-Assisted Operations
-* 🧩 Product Operations
-* 📚 Knowledge Management
-* 🌱 Human-Centered Systems
-
----
-
-## ☕ Beyond the Keyboard
-
-When I'm not building systems, I'm usually studying counseling, exploring AI tools, or spending time with my little.
-
----
-
-## 🔗 Connect
-
-🌐 https://www.3mcautomation.com
-
-🏢 https://github.com/3MC-Automation
-
-💼 https://www.linkedin.com/in/erikashavon
+LinkedIn: https://www.linkedin.com/in/erikashavon
 

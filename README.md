@@ -1,28 +1,33 @@
-Hi, I'm Eri 👋🏽
+# Hi, I'm Erika “Eri” McClenny 👋🏽
 
-I'm a Product Owner, Product Operations Specialist, and AI systems builder focused on turning complex workflows into scalable systems.
+I'm an AI Product Owner and systems builder focused on designing governed, repeatable workflows for AI-assisted product discovery, prioritization, and delivery.
 
-I build practical tools, automations, and operational workflows that reduce friction, improve visibility, and help teams move from scattered information to clear execution.
+I build product operating systems, decision-support platforms, and human-in-the-loop AI workflows that turn complex information into clear, implementation-ready action.
 
 ## Current Focus
 
-🤖 Building NOVA, an internal AI operations assistant
-
-⚙️ Designing workflow automation and intake systems
-
-🧠 Exploring agent workflows and AI-assisted execution
-
-🏥 Supporting public health and prevention initiatives
+🧠 Building the AI Product Operating System  
+🔎 Designing governed AI discovery and evidence workflows  
+⚙️ Creating repeatable product intake, prioritization, and delivery systems  
+🛡️ Defining human-in-the-loop validation and AI governance practices
 
 ## Featured Projects
 
-### Evidence-Based Program Discovery System
+### AI Product Operating System
 
-An AI-supported discovery workflow that helps prevention professionals navigate evidence-based program selection through structured intake, prioritization, and decision support.
+A practical framework for using AI across product discovery, prioritization, refinement, governance, and delivery while preserving human judgment and accountability.
 
-Focus areas: workflow design, product strategy, requirements definition, decision support systems
+Focus areas: AI product operations, discovery systems, governance, prioritization, delivery workflows
 
-Repo: https://github.com/3MC-Automation/discovery-tool-case-study
+Repo: https://github.com/3MC-Automation/ai-product-operating-system
+
+### PTTC Discovery Tool
+
+An AI-powered evidence discovery and recommendation platform for prevention professionals, supported by a governed canonical dataset, provenance architecture, editorial review workflow, and repeatable source-acquisition framework.
+
+Focus areas: AI product strategy, evidence architecture, governance, recommendation systems, source acquisition
+
+Repo: https://github.com/3MC-Automation/pttc-system
 
 ### Insight Lab Survey Pipeline
 
@@ -32,40 +37,24 @@ Focus areas: survey operations, data interpretation, workflow automation, report
 
 Repo: https://github.com/3MC-Automation/insight-lab-survey-pipeline-case-study
 
-## Currently Building
-
-### NOVA
-
-An internal AI operations assistant focused on workflow triage, operational prioritization, delivery readiness, knowledge management, and administrative workload reduction.
-
-Current areas of exploration:
-
-* Agent workflows
-* Operational automation
-* Knowledge management
-* AI-assisted execution systems
-
 ## What I Build
 
-* Workflow automation
-* Product operations systems
-* Internal tools
-* Intake and triage workflows
-* Decision support systems
-* Documentation infrastructure
-* AI-assisted operational workflows
+- AI product operating systems
+- Governed decision-support platforms
+- Human-in-the-loop AI workflows
+- Product discovery and prioritization systems
+- Knowledge and evidence architectures
+- Implementation-ready product frameworks
+- Internal tools and operational workflows
 
 ## Builder Philosophy
 
-The best systems are simple, repeatable, and human-centered.
+AI should not replace product judgment. It should amplify it through clear systems, governance, validation, and repeatable workflows.
 
 My goal is not to add more technology for the sake of it. It is to reduce friction, improve clarity, and create systems people can actually use.
 
 ## Connect
 
-Website: https://www.3mcautomation.com
-
-GitHub Organization: https://github.com/3MC-Automation
-
+Website: https://www.3mcautomation.com  
+GitHub Organization: https://github.com/3MC-Automation  
 LinkedIn: https://www.linkedin.com/in/erikashavon
-

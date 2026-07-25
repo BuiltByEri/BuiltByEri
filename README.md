@@ -1,60 +1,62 @@
-# Hi, I'm Erika “Eri” McClenny 👋🏽
+# Erika "Eri" McClenny
 
-I'm an AI Product Owner and systems builder focused on designing governed, repeatable workflows for AI-assisted product discovery, prioritization, and delivery.
+AI Product Owner building governed product systems teams can trust.
 
-I build product operating systems, decision-support platforms, and human-in-the-loop AI workflows that turn complex information into clear, implementation-ready action.
+I design AI-powered product operating systems, discovery workflows, and governance frameworks that turn ambiguous work into evidence-backed, implementation-ready decisions.
 
-## Current Focus
+My work sits at the intersection of Product Ownership, product strategy, AI operations, human-in-the-loop governance, and delivery readiness. I focus on systems that help teams clarify the problem, evaluate tradeoffs, validate AI-assisted output, and move from discovery to execution without losing accountability.
 
-🧠 Building the AI Product Operating System  
-🔎 Designing governed AI discovery and evidence workflows  
-⚙️ Creating repeatable product intake, prioritization, and delivery systems  
-🛡️ Defining human-in-the-loop validation and AI governance practices
-
-## Featured Projects
+## Start Here
 
 ### AI Product Operating System
 
-A practical framework for using AI across product discovery, prioritization, refinement, governance, and delivery while preserving human judgment and accountability.
+A vendor-neutral operating model for AI-assisted product discovery, prioritization, engineering planning, governance, and executive communication.
 
-Focus areas: AI product operations, discovery systems, governance, prioritization, delivery workflows
+This is the clearest expression of how I think: AI accelerates product work, but human judgment remains the control layer.
 
-Repo: https://github.com/3MC-Automation/ai-product-operating-system
+Repository: [https://github.com/3MC-Automation/ai-product-operating-system](https://github.com/3MC-Automation/ai-product-operating-system)
 
-### PTTC Discovery Tool
+## Featured Work
 
-An AI-powered evidence discovery and recommendation platform for prevention professionals, supported by a governed canonical dataset, provenance architecture, editorial review workflow, and repeatable source-acquisition framework.
+### Evidence-Based Program Discovery Workflow
 
-Focus areas: AI product strategy, evidence architecture, governance, recommendation systems, source acquisition
+A product case study demonstrating discovery, requirements definition, AI-assisted decision support, workflow design, governance, and implementation planning for an evidence-based program recommendation platform.
 
-Repo: https://github.com/3MC-Automation/pttc-system
+Repository: [https://github.com/3MC-Automation/discovery-tool-case-study](https://github.com/3MC-Automation/discovery-tool-case-study)
 
-### Insight Lab Survey Pipeline
+### Nova AI Operations Assistant
 
-A survey intake and reporting workflow that turns stakeholder responses into structured insights, cleaner reporting outputs, and implementation-ready recommendations.
+A governed AI operations assistant concept designed to support executive workflow triage, prioritization, memory management, and administrative workload reduction.
 
-Focus areas: survey operations, data interpretation, workflow automation, reporting systems
+Repository: [https://github.com/3MC-Automation/nova-ai-ops-assistant-case-study](https://github.com/3MC-Automation/nova-ai-ops-assistant-case-study)
 
-Repo: https://github.com/3MC-Automation/insight-lab-survey-pipeline-case-study
+### Survey Insights Pipeline
+
+A governed workflow for survey planning, CSV validation, insight drafting, human review, and stakeholder-ready reporting.
+
+Repository: [https://github.com/3MC-Automation/insight-lab-survey-pipeline-case-study](https://github.com/3MC-Automation/insight-lab-survey-pipeline-case-study)
 
 ## What I Build
 
 - AI product operating systems
-- Governed decision-support platforms
-- Human-in-the-loop AI workflows
-- Product discovery and prioritization systems
-- Knowledge and evidence architectures
-- Implementation-ready product frameworks
-- Internal tools and operational workflows
+- Governed product discovery workflows
+- Human-in-the-loop AI systems
+- Decision-support and evidence workflows
+- Product intake, prioritization, and delivery systems
+- Requirements, acceptance criteria, and developer-ready handoff artifacts
+- Executive-ready product communication
 
-## Builder Philosophy
+## Operating Principles
 
-AI should not replace product judgment. It should amplify it through clear systems, governance, validation, and repeatable workflows.
-
-My goal is not to add more technology for the sake of it. It is to reduce friction, improve clarity, and create systems people can actually use.
+- AI should amplify product judgment, not replace it.
+- Discovery comes before commitment.
+- Product intent should be clear before engineering planning begins.
+- Human review, validation, and approval are part of the system.
+- Good product systems make uncertainty, dependencies, risk, and tradeoffs visible.
+- The best AI workflows are usable, auditable, and trusted by the teams who depend on them.
 
 ## Connect
 
-Website: https://www.3mcautomation.com  
-GitHub Organization: https://github.com/3MC-Automation  
-LinkedIn: https://www.linkedin.com/in/erikashavon
+Website: [https://www.3mcautomation.com](https://www.3mcautomation.com/)  
+GitHub Organization: [https://github.com/3MC-Automation](https://github.com/3MC-Automation)  
+LinkedIn: [https://www.linkedin.com/in/erikashavon](https://www.linkedin.com/in/erikashavon)
